@@ -1,0 +1,1104 @@
+{
+  "blobs": [
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/NDVI.png",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"8ccbf22fa79cec697b8b1e3e52d9a7eb\"",
+      "Size": 89800,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/NDVI.tif",
+      "LastModified": "2022-08-17T21:34:29+00:00",
+      "ETag": "\"ead6e89f5c4e22ca1e48a08879f51415\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"5a66cf8e0358c86868045c4db204034a\"",
+      "Size": 93371,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"3f73774b39d6c0eb3f52fd4bde8d3255\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:34:29+00:00",
+      "ETag": "\"aa45e83af5608e36671bd2ada96b5c9f\"",
+      "Size": 90494,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/RGB.png",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"1ea77d465be1e47af3c08d92fb13bef8\"",
+      "Size": 118343,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/RGB.tif",
+      "LastModified": "2022-08-17T21:34:29+00:00",
+      "ETag": "\"d1014f8eb8741dda7dfd81c9f65bb1bf\"",
+      "Size": 152926,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/blue.tif",
+      "LastModified": "2022-08-17T21:34:29+00:00",
+      "ETag": "\"c24dc06fb3a1423e9ba6fd3a25967cd3\"",
+      "Size": 102402,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/details.json",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"906279d76ffe7b0ef21813acca2e46ff\"",
+      "Size": 3153,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/green.tif",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"c1de52c36e2f700de15580313f32c5b3\"",
+      "Size": 102404,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/nir.tif",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"b3535dceac3a42f87f47b4a8c7ba0411\"",
+      "Size": 102332,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_01/23_16_35/red.tif",
+      "LastModified": "2022-08-17T21:34:30+00:00",
+      "ETag": "\"5a685102e773f946e6fb8f23261527dd\"",
+      "Size": 102400,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/NDVI.png",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"393eaa5167154e9744faf710993ce5cc\"",
+      "Size": 91998,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/NDVI.tif",
+      "LastModified": "2022-08-17T21:36:56+00:00",
+      "ETag": "\"bafb9e3fe241dc56bacc2755744af1de\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:36:56+00:00",
+      "ETag": "\"938e92f978256fbc83b0a310e873ec1f\"",
+      "Size": 96165,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"be19dab5430aa839e23326b98418aedc\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:36:56+00:00",
+      "ETag": "\"3db35cde45a9839a549f039b7e9a1e95\"",
+      "Size": 79181,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/RGB.png",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"c2e1fc8756606463e18894a1772d4d52\"",
+      "Size": 117026,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/RGB.tif",
+      "LastModified": "2022-08-17T21:36:56+00:00",
+      "ETag": "\"a6ea5091d0af433dacf34f442e157bec\"",
+      "Size": 152878,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/blue.tif",
+      "LastModified": "2022-08-17T21:36:56+00:00",
+      "ETag": "\"3f27b909913df4650164af1c362421a4\"",
+      "Size": 102354,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/details.json",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"6b9488b8198859e2fd7e0ca8274f9311\"",
+      "Size": 3154,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/green.tif",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"387a8d9696a67efd6498382dfb3451ec\"",
+      "Size": 102356,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/nir.tif",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"d9f0ce014400c50e3f0f7fb4d3e1d470\"",
+      "Size": 102284,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_02/23_16_06/red.tif",
+      "LastModified": "2022-08-17T21:36:57+00:00",
+      "ETag": "\"11280660d877fe861285a687dc7a4f92\"",
+      "Size": 102352,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/NDVI.png",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"078a237bed7298e2e65ac7e6884b92ef\"",
+      "Size": 92005,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/NDVI.tif",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"c62f4a04a540a741f510dcc32422d524\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"312226aa4b2f5e5bd4f48528d97a7297\"",
+      "Size": 96359,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"b1d86ef032882e83707df689ddeb71d9\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"a9b1cb17b4d50f606a38495df6bdc08b\"",
+      "Size": 88355,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/RGB.png",
+      "LastModified": "2022-08-17T21:36:01+00:00",
+      "ETag": "\"85d333212b0c638173217879d5207fc2\"",
+      "Size": 117805,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/RGB.tif",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"fc782565e3e01b6940d2571f4a615112\"",
+      "Size": 152926,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/blue.tif",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"7e217e6db239b848628e683fbc27adef\"",
+      "Size": 102402,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/details.json",
+      "LastModified": "2022-08-17T21:36:00+00:00",
+      "ETag": "\"f31424978bfc12345b81d41879ae815e\"",
+      "Size": 3154,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/green.tif",
+      "LastModified": "2022-08-17T21:36:01+00:00",
+      "ETag": "\"3908a2a4260eee383202e4536301d20f\"",
+      "Size": 102404,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/nir.tif",
+      "LastModified": "2022-08-17T21:36:01+00:00",
+      "ETag": "\"40a19b4ff734328766f918442663f7bd\"",
+      "Size": 102332,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_03/23_19_51/red.tif",
+      "LastModified": "2022-08-17T21:36:01+00:00",
+      "ETag": "\"5bf3bea3ccd85c2f521f1f761aeb1dcb\"",
+      "Size": 102400,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/NDVI.png",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"96daf28bf2c4ff0e62f6ddfc2536da85\"",
+      "Size": 90199,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/NDVI.tif",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"dfab7cc45d6ea14015b3dec7af1a30de\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"79cbc883383515df16740bad91ffba91\"",
+      "Size": 95000,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"a33e26bad37fdc4e1a14318cae504e48\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"c38365bf36d3914db7eee2ca172b6342\"",
+      "Size": 76390,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/RGB.png",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"7fdd530bfbfab885f68e227112ef694c\"",
+      "Size": 113132,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/RGB.tif",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"bd8d3fdb00a16ac8250b1f197f99f0ed\"",
+      "Size": 152878,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/blue.tif",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"6245d3d10998a6b65f173fe06e34409a\"",
+      "Size": 102354,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/details.json",
+      "LastModified": "2022-08-17T21:35:35+00:00",
+      "ETag": "\"ec62e32acacf3732ecffed95c11f3028\"",
+      "Size": 3155,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/green.tif",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"0fb3dd5de57a2e40d0c467be9515273e\"",
+      "Size": 102356,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/nir.tif",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"70cf7933906c397925d6583dfabfaa31\"",
+      "Size": 102284,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_04/23_15_48/red.tif",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"84661d60ccff99bd240b940b9caa24cf\"",
+      "Size": 102352,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/NDVI.png",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"1c40560c78db718dc0d31d426cc24057\"",
+      "Size": 81821,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/NDVI.tif",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"26d3ef968eeb74583ade33e3fc5f2e41\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"8f377e61b08ba0ba99ba91c12e66d853\"",
+      "Size": 75376,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"271d3de345f7ce05d8f0621b13c871ba\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"40899a7dc24d31d806828bf61b07057a\"",
+      "Size": 93772,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/RGB.png",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"c4bd9cb5217d8c32d4b0a95c64d69994\"",
+      "Size": 109125,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/RGB.tif",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"e3a5394eaf0bd63ddadbe8c45420d78f\"",
+      "Size": 152926,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/blue.tif",
+      "LastModified": "2022-08-17T21:35:36+00:00",
+      "ETag": "\"58be58977383d369659968daad7462e3\"",
+      "Size": 102402,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/details.json",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"8f33614bbb0549e3b2f709f16b9c3623\"",
+      "Size": 3155,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/green.tif",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"0e353336d62ae99049c8d61241706912\"",
+      "Size": 102404,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/nir.tif",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"18fe96a9f9755207c5e4c827804824dd\"",
+      "Size": 102332,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_05/00_06_07/red.tif",
+      "LastModified": "2022-08-17T21:35:37+00:00",
+      "ETag": "\"3e3c0c426f9d21e24b98adbd0497799e\"",
+      "Size": 102400,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/NDVI.png",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"7b32d4562adbdc230101281cd4257045\"",
+      "Size": 82004,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/NDVI.tif",
+      "LastModified": "2022-08-17T21:34:32+00:00",
+      "ETag": "\"21b55d9cc93c45bf0f478549f50b1961\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"5f11144982faeee04a34f264825b5953\"",
+      "Size": 100391,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"d89160043e539aa3bc530f28e8914dae\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:34:32+00:00",
+      "ETag": "\"21ef05e72b160f44df87760c8c7d8f3f\"",
+      "Size": 67659,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/RGB.png",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"83d9ffce1d52e3efa942ecea626f3656\"",
+      "Size": 111811,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/RGB.tif",
+      "LastModified": "2022-08-17T21:34:32+00:00",
+      "ETag": "\"e9b4c0cdb83a18d6d9b7cc08feaa1f49\"",
+      "Size": 152880,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/blue.tif",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"b7629bb74664acb489399017b7cbe247\"",
+      "Size": 102356,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/details.json",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"41eae3fbeff24c82ccc68bc6925b6fba\"",
+      "Size": 3153,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/green.tif",
+      "LastModified": "2022-08-17T21:34:34+00:00",
+      "ETag": "\"3d6c833193b5102b8f2fc10c0c85ecac\"",
+      "Size": 102358,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/nir.tif",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"8c2009ecbb8e8ea53256fcdc4bc3d66f\"",
+      "Size": 102286,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_07/23_15_34/red.tif",
+      "LastModified": "2022-08-17T21:34:33+00:00",
+      "ETag": "\"5706c13fcc03a6d5e5c7fe35475b46f7\"",
+      "Size": 102354,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/NDVI.png",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"30a0ce724f6c8803cdea5bd344cd8652\"",
+      "Size": 81128,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/NDVI.tif",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"c7df2d63d54b9e214f95b4a20acaf885\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"e83a302717e2ae58f3cca89b79cc4409\"",
+      "Size": 99838,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"e836d1787f71d4bec3d8b937b23d6de8\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:35:52+00:00",
+      "ETag": "\"e6eec838e642694ff26e7598c9081b43\"",
+      "Size": 69021,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/RGB.png",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"33edbbd3480cf0ac1b990513c6f4f1b4\"",
+      "Size": 110728,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/RGB.tif",
+      "LastModified": "2022-08-17T21:35:52+00:00",
+      "ETag": "\"f6afccc8c64289f75233e630f7fd6aa9\"",
+      "Size": 152926,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/blue.tif",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"cf48c56c3eb5a720c52a6aa9ed22a056\"",
+      "Size": 102402,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/details.json",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"e5c9c1b5652d56516d886ed41877000f\"",
+      "Size": 3154,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/green.tif",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"3dd3a10287359f92855aa292bd18d824\"",
+      "Size": 102404,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/nir.tif",
+      "LastModified": "2022-08-17T21:35:53+00:00",
+      "ETag": "\"aa5eeaab16e619a3c2eba0497174b6b4\"",
+      "Size": 102332,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/00_05_47/red.tif",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"6b93eb792ce632c9567e83aa4f5851dd\"",
+      "Size": 102400,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/NDVI.png",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"9682afc1b0fbd8549f6bcca5382dd325\"",
+      "Size": 55695,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/NDVI.tif",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"10819179bf582b5196361eecf82241d2\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"d1f34bf1eee0e24dc236239fcdaa77fa\"",
+      "Size": 35370,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"0e0fd0c2141b17cfdede3952efed586c\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/NDVI_relative.png",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"a8a7ab8b0161984aff4eafb87d137705\"",
+      "Size": 81580,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/RGB.png",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"13e61a7e8de6f1b1ad39e0c147fda88c\"",
+      "Size": 94918,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/RGB.tif",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"131d51bb1ca2aac5f67583924e992a94\"",
+      "Size": 152926,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/blue.tif",
+      "LastModified": "2022-08-17T21:35:54+00:00",
+      "ETag": "\"24ed24be58c83cd147d27dbb953be832\"",
+      "Size": 102402,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/details.json",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"78f3d900d6605d495fe919c3ed182007\"",
+      "Size": 3155,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/green.tif",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"5b679ed64490bea24e44506ab8b76b46\"",
+      "Size": 102404,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/nir.tif",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"399c360f54bc12f8f3be8acfba16a7e7\"",
+      "Size": 102332,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_08/23_17_41/red.tif",
+      "LastModified": "2022-08-17T21:35:55+00:00",
+      "ETag": "\"3dee56a0790471a6ca4283a5fd660b44\"",
+      "Size": 102400,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_09/23_13_42/NDVI.png",
+      "LastModified": "2022-08-17T21:35:26+00:00",
+      "ETag": "\"3e7d36a6e07ab1d27cbe84c72c8d7e46\"",
+      "Size": 75774,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_09/23_13_42/NDVI.tif",
+      "LastModified": "2022-08-17T21:35:25+00:00",
+      "ETag": "\"203b54907457ce04460b2ef2733654d2\"",
+      "Size": 202152,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_09/23_13_42/NDVI_absolute.png",
+      "LastModified": "2022-08-17T21:35:25+00:00",
+      "ETag": "\"cfffd975e0f63c67aa81697dd537fb46\"",
+      "Size": 81436,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    },
+    {
+      "Key": "adrian/clearView/105/2022_02_09/23_13_42/NDVI_color.tif",
+      "LastModified": "2022-08-17T21:35:26+00:00",
+      "ETag": "\"3cb759574c6c32bbc18a68b894c82a6c\"",
+      "Size": 202144,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "DisplayName": "malademi",
+        "ID": "036e588f558485b2fb63f09d893901a2afecb28afb12ad061d09e9200a671f30"
+      }
+    }
+  ]
+}
